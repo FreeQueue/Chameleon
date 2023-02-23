@@ -1,0 +1,8 @@
+﻿#	物体组配置表			
+#	Id		Name	PoolParamId
+#	int		string	int
+#	配置编号	策划备注	物体组名字	对象池参数Id
+	3001	玩家组	Player	1002
+	3002	收集组	Collection	1002
+	3003	地面组	Ground	1002
+	3004	特效组	VFX	1002

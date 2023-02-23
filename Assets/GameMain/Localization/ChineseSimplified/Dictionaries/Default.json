@@ -1,0 +1,43 @@
+﻿[
+  {
+    "language": "ChineseSimplified",
+    "dic": {
+      "LEVEL SELECT": "选择关卡",
+      "OPTIONS": "设置",
+      "QUIT": "退出",
+      "MUSIC VOLUME": "音乐音量",
+      "SFX VOLUME": "特效音量",
+      "UI VOLUME": "界面音量",
+      "LANGUAGES": "语言",
+      "CHINESE SIMPLIFIED": "简体中文",
+      "CHINESE TRADITIONAL": "繁体中文",
+      "ENGLISH": "英语",
+      "CHANGE LANGUAGE NEED RESTART": "更改语言需要重启游戏",
+
+      "TITLE1":"急速",
+      "TITLE2":"变色龙",
+      "PAUSE":"暂停",
+      "Jump":"跳跃",
+      "Change":"变色",
+      "MOUSE":"鼠标操作",
+
+      "Confirm": "确认",
+      "Cancel": "取消",
+      "Level1": "第一关",
+      "Level2": "第二关",
+      "Level3": "第三关",
+      "Level4": "第四关",
+      "Level5": "第五关",
+      "Level 1 Des": "第一关",
+      "Level 2 Des": "第二关",
+      "Level 3 Des": "第三关",
+      
+      "Level Complete": "{0} 完成!",
+      "Level Failed": "{0} 失败!",
+      "NEXT LEVEL": "下一关",
+      "ForceUpdate.UpdateButton": "更新",
+      "ForceUpdate.QuitButton": "退出",
+      "Download": "下载"
+    }
+  }
+]

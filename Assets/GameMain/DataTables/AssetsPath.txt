@@ -1,0 +1,29 @@
+﻿#	资源路径配置表			
+#	Id		AssetPath	ResourceGroupIndexs
+#	int		string	string
+#	资源编号	策划备注	资源名称	资源组Id
+	101	启动场景	Assets/GameMain/Scenes/GameStart/GameStart.unity	0
+	102	菜单场景	Assets/GameMain/Scenes/Menu/Menu.unity	0
+	103	主场景	Assets/GameMain/Scenes/Level/Level.unity	1
+#UI				
+	1001	主菜单	Assets/GameMain/UI/UIForms/UIMainMenu.prefab	0
+	1002	输入设置	Assets/GameMain/UI/UIForms/UIInput.prefab	0
+	1003	关卡选择	Assets/GameMain/UI/UIForms/UISelectLevel.prefab	0
+	1004	关卡主界面	Assets/GameMain/UI/UIForms/UIMainGame.prefab	0
+	1005	胜利界面	Assets/GameMain/UI/UIForms/UISuccess.prefab	0
+	1006	暂停界面	Assets/GameMain/UI/UIForms/UIPause.prefab	0
+	1007	对话界面	Assets/GameMain/UI/UIForms/UIDialog.prefab	0
+	1008	遮罩	Assets/GameMain/UI/UIForms/UIMask.prefab	0
+#Item				
+	2001	关卡选择按钮	Assets/GameMain/UI/UIItems/SelectLevelButton.prefab	0
+	2002	输入设置按钮	Assets/GameMain/UI/UIItems/InputSetter.prefab	0
+#Entity				
+	3001	玩家	Assets/GameMain/Entity/Player.prefab	0
+	3002	地面	Assets/GameMain/Entity/Ground.prefab	0
+	3003	球	Assets/GameMain/Entity/Sphere.prefab	0
+	3004	方块	Assets/GameMain/Entity/Cube.prefab	0
+	3005	终点	Assets/GameMain/Entity/End.prefab	0
+#Sound				
+	10001	游戏背景音乐	Assets/GameMain/Sounds/Music/GameBGM.wav	0
+	10002	主菜单背景音乐	Assets/GameMain/Sounds/Music/MenuBGM.wav	0
+#				

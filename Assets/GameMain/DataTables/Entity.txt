@@ -1,0 +1,9 @@
+﻿#	实体配置表				
+#	Id		Name	AssetId	EntityGroupId
+#	int		string	int	int
+#	配置编号	策划备注	物体名字	资源ID	实体组Id
+	3001	玩家	Player	3001	3001
+	3002	地面	Ground	3002	3003
+	3003	球	Sphere	3003	3002
+	3004	方块	Cube	3004	3002
+	3005	终点	End	3005	3001

@@ -1,0 +1,12 @@
+﻿#	界面配置表						
+#	Id		Name	UIGroupId	AssetId	AllowMultiInstance	PauseCoveredUIForm
+#	int		string	int	int	bool	bool
+#	界面编号	策划备注	界面名字	界面组Id	资源Id	是否允许多个界面实例	是否暂停被其覆盖的界面
+	1001	主菜单	UIMainMenu	1001	1001	FALSE	TRUE
+	1002	输入设置	UIInput	1001	1002	FALSE	TRUE
+	1003	关卡选择	UISelectLevel	1001	1003	FALSE	TRUE
+	1004	关卡主界面	UIMainGame	1002	1004	FALSE	FALSE
+	1005	胜利界面	UISuccess	1002	1005	FALSE	TRUE
+	1006	暂停界面	UIPause	1002	1006	FALSE	TRUE
+	1007	对话界面	UIDialog	1003	1007	FALSE	FALSE
+	1008	遮罩	UIMask	1003	1008	FALSE	FALSE
